@@ -84,6 +84,17 @@ To be confirmed
 
 #### Identifying tasks and responsibilities
 
+* Create wireframe for application
+* Code in Auth0 API
+  * Add ability for user to create accounts
+* Code in ChatGPT API
+* Code chat page template
+* Create some sort of server for users to join
+* Connect prompt input to ChatGPT API and program the prompt activator.
+* Allow for users create new chats
+
+*Add to this section*
+
 #### Activities planned for the development process
 
 ### 1.5 Logistics
@@ -125,6 +136,7 @@ To be confirmed
 ### 2.6 Functional requirements
 
 | Functional Requirements | System Requirements |
+|---|---|
 |  |  |
 
 ### 2.7 Non-functional requirements
